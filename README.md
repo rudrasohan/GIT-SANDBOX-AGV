@@ -1,4 +1,9 @@
 # GIT-SANDBOX-AGV
 for testing out git
 
-[Shreyas Kowshik]
+[Kousshik Raj](https://github.com/TheLethalCode)
+
+[Shreyas Kowshik](https://github.com/shreyas-kowshik)
+
+[Sohan Rudra](https://github.com/rudrasohan)
+
