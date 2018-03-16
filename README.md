@@ -8,5 +8,7 @@ for testing out git
 
 [Shruti Priya](https://github.com/PriyaShruti)
 
+[Siddhant Agarwal](https://github.com/agarwalsiddhant10)
+
 [Sohan Rudra](https://github.com/rudrasohan)
 
