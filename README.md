@@ -6,6 +6,8 @@ for testing out git
 
 [Ashutosh Singh](https://github.com/ashutoshsingh19)
 
+[Deepank Agrawal](https://github.com/Deepank308)
+
 [Kousshik Raj](https://github.com/TheLethalCode)
 
 [Shruti Priya](https://github.com/PriyaShruti)
