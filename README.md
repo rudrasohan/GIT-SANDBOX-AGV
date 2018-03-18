@@ -4,6 +4,8 @@ for testing out git
 
 [Anand jhunjhunwala](https://github.com/Anandj913)
 
+[Apoorve Singhal](https://github.com/apugoneappu)
+
 [Ashutosh Singh](https://github.com/ashutoshsingh19)
 
 [Deepank Agrawal](https://github.com/Deepank308)
