@@ -12,6 +12,8 @@ for testing out git
 
 [Kousshik Raj](https://github.com/TheLethalCode)
 
+[Pranit Chawla](https://github.com/PranitChawla)
+
 [Shreyas Kowshik](https://github.com/shreyas-kowshik)
 
 [Shruti Priya](https://github.com/PriyaShruti)
