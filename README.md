@@ -6,6 +6,8 @@ for testing out git
 
 [Apoorve Singhal](https://github.com/apugoneappu)
 
+[Arvind Jha](https://github.com/arvindjha114)
+
 [Ashutosh Singh](https://github.com/ashutoshsingh19)
 
 [Deepank Agrawal](https://github.com/Deepank308)
