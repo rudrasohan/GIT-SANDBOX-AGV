@@ -14,6 +14,8 @@ for testing out git
 
 [Poojitha Maheshappa](https://github.com/Poojitha1999)
 
+[Pranit Chawla](https://github.com/PranitChawla)
+
 [Shreyas Kowshik](https://github.com/shreyas-kowshik)
 
 [Shruti Priya](https://github.com/PriyaShruti)
