@@ -12,6 +12,8 @@ for testing out git
 
 [Deepank Agrawal](https://github.com/Deepank308)
 
+[N Krithick Santhosh](https://github.com/Blissmode)
+
 [Kousshik Raj](https://github.com/TheLethalCode)
 
 [Poojitha Maheshappa](https://github.com/Poojitha1999)
@@ -25,5 +27,3 @@ for testing out git
 [Siddhant Agarwal](https://github.com/agarwalsiddhant10)
 
 [Sohan Rudra](https://github.com/rudrasohan)
-
-
